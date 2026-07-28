@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "creepersmp-NcjR.aternos.me:46901",
-    "port": 46901,
+    "ip": "flexbin.aternos.me:22468",
+    "port": 22468,
     "version": "",
     "try-creative": false
   },
