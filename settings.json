@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "creepersmp-NcjR.aternos.me",
+    "ip": "creepersmp-NcjR.aternos.me:46901",
     "port": 46901,
     "version": "",
     "try-creative": false
